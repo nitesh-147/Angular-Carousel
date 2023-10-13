@@ -1,0 +1,38 @@
+img{
+    width:90vw;
+    height:60vh;
+}
+
+button{
+    position:absolute;
+}
+
+div{
+   text-align: center;
+}
+
+.btn1{
+    top:29vh;
+}
+
+.btn2{
+    right:5vw;
+    top:29vh;
+}
+
+.dots{
+    display: flex;
+    position: absolute;
+    bottom:35vh;
+   left:47vw;
+   list-style: circle;
+}
+
+.dots li{
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.fill{
+    list-style: disc;
+}
