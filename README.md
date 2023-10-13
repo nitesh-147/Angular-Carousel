@@ -1,3 +1,4 @@
+https://simple-carousel-nkr147.netlify.app/
 # SimpleCaraousel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
